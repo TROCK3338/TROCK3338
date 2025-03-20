@@ -34,45 +34,45 @@
 ---
 
 ## ⚙️ Languages & Technologies
-### **Languages**
-![C](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Python](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![JavaScript](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![HTML](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![CSS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![SQL](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Kotlin](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+# Tech Stack & Tools
 
-<p align="center">
-  <a href="[https://www.linkedin.com/in/aman-singhall/](https://iconscout.com/free-3d-illustration/s-9294872_7578015)" target="_blank">
-    <img src="https://iconscout.com/free-3d-illustration/s-9294872_7578015" alt="C++" width="50"/>
-  </a>
-  <a href="mailto:amansinghal20@icloud.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50"/>
-  </a>
-</p>
+### Languages
+![C++](https://skillicons.dev/icons?i=cpp)
+![C](https://skillicons.dev/icons?i=c)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
 
+### Technologies
+![React Native](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![ExpressJS](https://skillicons.dev/icons?i=express)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Docker](https://skillicons.dev/icons?i=docker)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-### **Technologies & Frameworks**
-![React Native](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Node.js](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Express.js](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Tailwind CSS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Docker](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![AWS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+### Developer Tools
+![GitHub](https://skillicons.dev/icons?i=github)
+![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
+![Virtual Box](https://skillicons.dev/icons?i=virtualbox)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![Expo](https://skillicons.dev/icons?i=expo)
+![Google Colab](https://skillicons.dev/icons?i=colab)
 
-### **Developer Tools**
-![GitHub](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![VS Code](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Virtual Box](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![IntelliJ IDEA](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Expo](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Colab](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+### Databases
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-### **Databases**
-![MongoDB](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![MySQL](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
-![Firebase](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+### Other
+- Data Structures and Algorithms
+- Operating System
+- Object-Oriented Programming
+- Database Management System
+- Computer Networks
 
 ---
 
