@@ -22,22 +22,42 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-singhall/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansinghal20@icloud.com)
+[![🔗 LinkedIn](https://img.shields.io/badge/LinkedIn-Aman_Singhal-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-singhall/)
+[![📧 Email](https://img.shields.io/badge/Email-amansinghal20@icloud.com-red?style=for-the-badge&logo=gmail)](mailto:amansinghal20@icloud.com)
 
 ---
 
-## 🛠️ Languages & Tools
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" title="GitHub"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281798-28e3c004-bd41-4f73-a26a-5d8aa68de65c.gif" width="60" title="JavaScript"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281804-0f4bfa4b-6c7a-4954-a904-6e4f4c5a10c3.gif" width="60" title="React Native"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281820-eef6f031-f9e4-4be9-b8a9-fcf8e2c7eb88.gif" width="60" title="Node.js"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281831-6262bff0-98d4-45e3-beb4-21f80c0f1560.gif" width="60" title="MongoDB"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281844-c191238b-bc3a-40f3-931e-84e616e41fa7.gif" width="60" title="Docker"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281855-31ae1e80-3726-473c-9b96-48f14b6c75e2.gif" width="60" title="AWS"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212281865-5b5e98e4-8db8-46a2-b81a-609f0c12c759.gif" width="60" title="MySQL"/>
-</p>
+## ⚙️ Languages & Technologies
+### **Languages**
+![C++](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![C](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Python](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![JavaScript](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![HTML](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![CSS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![SQL](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Kotlin](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+
+### **Technologies & Frameworks**
+![React Native](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Node.js](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Express.js](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Tailwind CSS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Docker](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![AWS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+
+### **Developer Tools**
+![GitHub](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![VS Code](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Virtual Box](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![IntelliJ IDEA](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Expo](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Colab](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+
+### **Databases**
+![MongoDB](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![MySQL](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+![Firebase](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 
 ---
 
@@ -45,6 +65,4 @@
 ![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TROCK3338&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TROCK3338&layout=compact&theme=tokyonight)
 
----
-
-</div>
+---</div>
