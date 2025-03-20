@@ -35,7 +35,6 @@
 
 ## ⚙️ Languages & Technologies
 ### **Languages**
-![C++](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 ![C](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 ![Python](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 ![JavaScript](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
@@ -43,6 +42,16 @@
 ![CSS](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 ![SQL](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
 ![Kotlin](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
+
+<p align="center">
+  <a href="[https://www.linkedin.com/in/aman-singhall/](https://iconscout.com/free-3d-illustration/s-9294872_7578015)" target="_blank">
+    <img src="https://iconscout.com/free-3d-illustration/s-9294872_7578015" alt="C++" width="50"/>
+  </a>
+  <a href="mailto:amansinghal20@icloud.com">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="Email" width="50"/>
+  </a>
+</p>
+
 
 ### **Technologies & Frameworks**
 ![React Native](https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif)
