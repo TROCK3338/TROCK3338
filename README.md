@@ -22,21 +22,22 @@
 ---
 
 ## 🌐 Connect with Me
-[![🌍 Portfolio](https://img.shields.io/badge/🌍-Portfolio-blue)](https://yourportfolio.com)
-[![🔗 LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-blue)](https://linkedin.com/in/yourprofile)
-[![🐦 Twitter](https://img.shields.io/badge/🐦-Twitter-blue)](https://twitter.com/yourhandle)
-[![📧 Email](https://img.shields.io/badge/📧-Email-blue)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-singhall/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansinghal20@icloud.com)
 
 ---
 
-## 🛠 Languages & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="60" title="GitHub"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281798-28e3c004-bd41-4f73-a26a-5d8aa68de65c.gif" width="60" title="JavaScript"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281804-0f4bfa4b-6c7a-4954-a904-6e4f4c5a10c3.gif" width="60" title="React Native"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281820-eef6f031-f9e4-4be9-b8a9-fcf8e2c7eb88.gif" width="60" title="Node.js"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281831-6262bff0-98d4-45e3-beb4-21f80c0f1560.gif" width="60" title="MongoDB"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281844-c191238b-bc3a-40f3-931e-84e616e41fa7.gif" width="60" title="Docker"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281855-31ae1e80-3726-473c-9b96-48f14b6c75e2.gif" width="60" title="AWS"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212281865-5b5e98e4-8db8-46a2-b81a-609f0c12c759.gif" width="60" title="MySQL"/>
+</p>
 
 ---
 
