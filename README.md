@@ -57,10 +57,7 @@
 ### Developer Tools
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Visual Studio Code](https://skillicons.dev/icons?i=vscode)
-![Virtual Box](https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png)
 ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
-![Expo](https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Icon.svg)
-![Google Colab](https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg)
 
 ### Databases
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
